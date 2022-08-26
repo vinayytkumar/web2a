@@ -1,0 +1,211 @@
+.logo {
+    font-family: 'Dancing Script', cursive;
+    background: deepskyblue;
+    font-size: 30px;
+    display: inline-block;
+    height: 42px;
+    width: 42px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.color {
+    padding-top: 5px;
+    color: black;
+    display: inline-block;
+}
+
+.sddsd {
+    border-radius: 20px 0px 20px 20px;
+    background: orange;
+    border: navajowhite;
+    color: white;
+    font-weight: 700;
+}
+
+.dfdf {
+    background: white;
+}
+
+.circle {
+    border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+    background-color: red;
+}
+
+.formdfdf {
+    border-radius: 73% 27% 24% 76% / 58% 72% 28% 42%;
+    text-align: center;
+    /* width: 30em; */
+    background-color: green;
+    box-shadow: 0px 0px 27px 20px rgb(172 222 241);
+}
+
+.buttoncolor {
+    color: white;
+    width: 8em;
+    height: 3em;
+}
+
+zener {
+    font-size: 4.7em;
+}
+
+.hover:hover {
+    color: blue;
+}
+
+.dfdfdf {
+    align-items: center;
+    transition: all 0.3s ease;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.fdg {
+    margin-left: -7em;
+
+}
+
+img.image-extra {
+    height: 60px;
+}
+
+@media screen and (max-width: 318px) {
+    .navbar-brand img {
+        max-width: 100px;
+    }
+
+    .extra {
+        padding: 0px;
+        font-size: 15px;
+    }
+
+}
+
+@media screen and (max-width: 991px) {
+    .sub-menu{
+       left: 90px;
+    }
+    .navbar-nav{
+        display: inline-block;
+    }
+
+}
+
+
+
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+    color: rgb(18 213 123 / 70%);
+}
+
+/* .navbar-light .navbar-brand {
+    margin-left: -11em;
+    color: rgba(0, 0, 0, .9);
+}  */
+
+
+.navbar-hover {
+    position: relative;
+}
+
+.sub-menu li a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.sub-menu {
+    list-style-type: none;
+    position: absolute;
+    z-index: 1;
+    min-width: 225px;
+    background-color: #fff;
+    padding: 21px 30px;
+    border-top: 2px solid #81b03f;
+   transition: all 0.7s;
+        box-shadow: 0 0 7px 0rgba(0, 0, 0, .1);
+    -moz-box-shadow: 0 0 7px 0 rgba(0, 0, 0, .1);
+    -webkit-box-shadow: 0 0 7px 0 rgb(0 0 0 / 10%);
+    -o-box-shadow: 0 0 7px 0 rgba(0, 0, 0, .1);
+    -ms-box-shadow: 0 0 7px 0 rgba(0, 0, 0, .1);
+   visibility: hidden;
+   opacity: 0;
+}
+.navbar-hover:focus .sub-menu,
+.navbar-hover:focus-within .sub-menu,
+.navbar-hover:hover .sub-menu {
+    visibility: visible;
+    opacity: 1;
+    z-index: 2;
+    transform: translateY(0);
+}
+
+.sub-menu a {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #666;
+    display: block;
+    padding: 18px 0;
+    width: 100%;
+    border-bottom: 1px solid #e6e6e6;
+    transition: 0.3s ease-in-out;
+}
+.sub-menu li a:hover {
+   color:green;
+}
+.navbar-hover:hover .dropbtn {
+    background-color: #3e8e41;
+}
+
+
+/* section 1 start */
+
+.hadder {
+    position: relative;
+}
+
+.section-1-start {
+    position: relative;
+}
+
+.hjjkhj {
+
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: 0;
+    width: 100%;
+    height: 28em;
+    background-size: cover;
+    background-image: url(https://freebw.com/templates/oragnive-v1/images/bg-slide-01.jpg);
+}
+
+span {
+    font-weight: 100;
+}
+
+p.p-contant {
+    font-size: 14px;
+}
+
+.hover-1:hover {
+    background: #212529;
+}
+
+.dfgdfh {
+    transition: 0.3s ease-in-out;
+}
+
+.hover-1:hover .dfgdfh {
+    padding-left: 5px;
+}
+
+
+
